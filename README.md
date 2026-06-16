@@ -1,16 +1,14 @@
-## Hi there 👋
+# Лада Тишонкова
 
-<!--
-**LadaTishonkova/LadaTishonkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Увлечена продуктовой аналитикой: меня вдохновляет изучать поведение пользователей, понимать, какие факторы влияют на их решения, и как данные могут улучшить продукт.
 
-Here are some ideas to get you started:
+**Контакты:**
+* Телефон: +7 930 272-72-07
+* Email: tishonkovalada@yandex.ru
+* https://t.me/LadaTishonkova
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Что умею
+* SQL, Python
+* Математическая статистика, A/B-тестирование
+* Когортный анализ, unit-экономика
+* Визуализация данных
